@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.top-nav{
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    background-color: lightgray; 
+    height: 50px;
+    align-items: center;
+}
+.top-link{
+  margin-left: 50px;
+  color: black;
+  text-decoration: none;
+}
+
+.image-size {
+  width: 150px;
+  height: 150px;
+}
+.mall{
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-between;
+}
+.product_info{
+  margin-right: 10px;
+}
+
+footer{
+  height: 50px;
+  align-content: center;
+  margin-top: 50px;
+  background: lightgray;
+}
