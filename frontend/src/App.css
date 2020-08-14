@@ -35,3 +35,25 @@ footer{
   margin-top: 50px;
   background: lightgray;
 }
+
+.form{
+
+}
+.lable_title{
+  margin-bottom: 10px;
+  /* width: 250px ; */
+}
+.submit{
+  background-color: rgb(65, 165, 223);
+  color: white;
+  border: none;
+  width: 80px;
+  height: 30px;
+  margin: 20px;
+}
+
+.input_text{
+  width: 250px;
+  height: 30px;
+  padding: 0;
+}
